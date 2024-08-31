@@ -1,7 +1,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-https://sunnywhy.com/problem/153/solution/1575245403
+//https://sunnywhy.com/problem/153/solution/1575245403
 const int MAXN = 10000;
 struct Interval {    // 区间结构体定义
     int l, r;
