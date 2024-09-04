@@ -1,10 +1,9 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+// 中科大研究生机第4题
 const int N = 20;
 vector<int> path;
-//vector<vector<int>> res;
 int a[N],n,k,cnt = 0;
 bool vis[N];
 
