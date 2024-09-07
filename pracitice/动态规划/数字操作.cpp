@@ -2,8 +2,8 @@
 #include <vector>
 #include <climits>
 #include <algorithm>
-
 using namespace std;
+// https://sunnywhy.com/problem/318
 
 int minOperations(int target) {
     if (target == 1) return 0;

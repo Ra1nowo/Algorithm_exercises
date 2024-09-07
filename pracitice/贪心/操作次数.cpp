@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// https://sunnywhy.com/problem/318
 int main() {
     int n;
     cin >> n;
