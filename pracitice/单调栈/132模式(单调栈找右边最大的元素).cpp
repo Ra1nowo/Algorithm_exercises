@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stack>
 using namespace std;
-
+// https://leetcode.cn/problems/132-pattern/description/
 const int N = 2e5 + 10, INF = -1e9;
 int a[N];
 stack<int> stk;
