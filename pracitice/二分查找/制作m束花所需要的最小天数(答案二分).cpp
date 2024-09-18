@@ -1,7 +1,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-
+// https://leetcode.cn/problems/minimum-number-of-days-to-make-m-bouquets/description/
 const int N = 1e5 + 10;
 int a[N], b[N], m, k, n;
 
